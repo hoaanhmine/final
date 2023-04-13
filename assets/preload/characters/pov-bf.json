@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-380,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "POV BF Idle"
+		},
+		{
+			"offsets": [
+				-200,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "POV BF Left0"
+		},
+		{
+			"offsets": [
+				-400,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "POV BF Right0"
+		},
+		{
+			"offsets": [
+				-260,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "POV BF Up0"
+		},
+		{
+			"offsets": [
+				-260,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "POV BF Down0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/POV_BF",
+	"position": [
+		150,
+		690
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		182,
+		255
+	],
+	"camera_position": [
+		-350,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

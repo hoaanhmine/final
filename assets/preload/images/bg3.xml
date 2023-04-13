@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bg3.png">
+<SubTexture name="bg30000" x="0" y="0" width="640" height="271" frameX="0" frameY="0" frameWidth="640" frameHeight="271" />
+<SubTexture name="bg30001" x="0" y="271" width="640" height="271" frameX="0" frameY="0" frameWidth="640" frameHeight="271" />
+<SubTexture name="bg30002" x="640" y="0" width="640" height="271" frameX="0" frameY="0" frameWidth="640" frameHeight="271" />
+<SubTexture name="bg30003" x="640" y="271" width="640" height="271" frameX="0" frameY="0" frameWidth="640" frameHeight="271" />
+<SubTexture name="bg30004" x="0" y="542" width="640" height="271" frameX="0" frameY="0" frameWidth="640" frameHeight="271" />
+<SubTexture name="bg30005" x="640" y="542" width="640" height="271" frameX="0" frameY="0" frameWidth="640" frameHeight="271" />
+<SubTexture name="bg30006" x="0" y="813" width="640" height="271" frameX="0" frameY="0" frameWidth="640" frameHeight="271" />
+<SubTexture name="bg30007" x="640" y="813" width="640" height="271" frameX="0" frameY="0" frameWidth="640" frameHeight="271" />
+<SubTexture name="bg30008" x="1280" y="0" width="640" height="271" frameX="0" frameY="0" frameWidth="640" frameHeight="271" />
+</TextureAtlas>

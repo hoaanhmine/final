@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "bfRun idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bfRun",
+	"position": [
+		250,
+		570
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		189,
+		255
+	],
+	"camera_position": [
+		0,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 9
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				450
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Symbol 18 instance"
+		},
+		{
+			"offsets": [
+				430,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Beast_LEFT instance"
+		},
+		{
+			"offsets": [
+				170,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Beast_DOWN instance"
+		},
+		{
+			"offsets": [
+				411,
+				570
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Beast_UP instance"
+		},
+		{
+			"offsets": [
+				120,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Beast_RIGHT instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Exeternal_TT_xeno_encore",
+	"position": [
+		-50,
+		-100
+	],
+	"healthicon": "beast",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		3,
+		115
+	],
+	"camera_position": [
+		-150,
+		-325
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

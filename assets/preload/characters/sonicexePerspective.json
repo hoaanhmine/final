@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-70,
+				-38
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				159,
+				87
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				135
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				75
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "alt down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic/encore/sonicperspective",
+	"position": [
+		150,
+		175
+	],
+	"healthicon": "exe-encore",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		86,
+		183
+	],
+	"camera_position": [
+		-200,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.45
+}

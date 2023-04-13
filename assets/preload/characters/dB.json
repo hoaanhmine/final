@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bf Idle Dance"
+		},
+		{
+			"offsets": [
+				160,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "boyfriend down"
+		},
+		{
+			"offsets": [
+				4,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "boyfriend up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				34
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "boyfriend right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				-27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "boyfriend left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFdark",
+	"position": [
+		50,
+		225
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		182,
+		255
+	],
+	"camera_position": [
+		200,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
